@@ -1,0 +1,1 @@
+Escreva uma classe para representar uma lâmpada que está á venda em um supermercado.
