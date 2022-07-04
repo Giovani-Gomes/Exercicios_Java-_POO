@@ -6,4 +6,5 @@ public class Livro {
     String editora;
     int qtdPaginas;
     String categoria;
+    String Genero;
 }
