@@ -12,6 +12,7 @@ public class Main {
         livro1.categoria = "História em Quadrinho/Mangá";
         livro1.editora = "Pipoca e Nanquin";
         livro1.Genero = "Drama";
+        livro1.idiomaOriginal = "Japonês";
 
         System.out.println("NOME - " + livro1.nome);
         System.out.println("AUTOR - " + livro1.autor);
@@ -19,6 +20,7 @@ public class Main {
         System.out.println("CATEGORIA - " + livro1.categoria);
         System.out.println("EDITORA - " + livro1.editora);
         System.out.println("GÊNERO - " + livro1.Genero);
+        System.out.println("IDIOMA ORIGINAL - " + livro1.idiomaOriginal);
         
 
     }

@@ -7,4 +7,5 @@ public class Livro {
     int qtdPaginas;
     String categoria;
     String Genero;
+    String idiomaOriginal;
 }
