@@ -1,0 +1,1 @@
+Escreva uma classe para representar uma lâmpada. Desenvolva métodos para ligar,desligar a lâmpada.
