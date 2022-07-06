@@ -91,10 +91,10 @@ public class Lampada {
     }
 
     void ligar(){
-        ligada = true;
+        setLigada(true);
     }
     void desligar(){
-        ligada = false;
+        setLigada(false);
     }
     void mostrarEstado(){
         if (ligada){
