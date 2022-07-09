@@ -21,4 +21,27 @@
 - [x] [Exercício 03- Escreva uma classe para representar um Aluno. Adicione atributos relacionados às características de um Aluno, como nome,matricula, curso que está matriculado, nome de 3 disciplinas que está cursando e as notas dessas 3 disciplinas. Desenvolva um método para verificar se o aluno está aprovado(nota maior ou igual a 7) em uma determinada disciplina. Escreva um programa para testar essa classe, que pede as informações do aluno ao usuário e ao final informal o nome das disciplinas mostra as notas e mostra se o aluno foi aprovado ou não.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2003%20-%20Construtores%5CEncapsulamento%5CSobrecarga)
 - [x] [Exercício 04- Reescreva o exercício do Jogo da Velha . Desenvolva uma classe para representar o Jogo da Velha. Desenvolva uma classe para testar o Jogo.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2004%20-%20Construtores%5CEncapsulamento%5CSobrecarga)
 
+## Variáveis e Métodos Estáticos(static) <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+- [] [Exercicio 01 - Escreva uma Classe chamada Contador, que tem um atributo estático que é incrementado sempre que a classe for instanciada. Crie métodos para zerar, incrementar e retornar o valor do contador.Desenvolva um programa para testar essa classe]()
+- [] [Exercicio 02 - Escreva uma classe Calculadora que tenha os seguintes métodos:somar,subtrair,multiplicar,dividir(dois números), elevar à potência n. Desenvolva um programa para testar essa classe.]()
+- [] [Exercicio 03 - Escreva um método para calcular factorial de um número na classe Calculadora do exercício anterior.]()
+- [] [Exercicio 04 - Escreva a Classe _ConversaoDeUnidadeDeArea_ com métodos estáticos para conversão das unidades de área segundo a lista:
+    * 1 metro quadrado = 10.76 pés quadrados
+    * 1 pé quadrado = 929 centímetros quadrados
+    * 1 milha quadrada = 640 acres
+    * 1 acre = 43.560 pés quadrados]()
+- [] [Exercicio 05 - Escreva a Classe _ConversaoDeUnidadeDeArea_ com métodos estáticos para conversão das unidades de volume segundo a lista
+    * 1 litro = 1000 centímetros cúbicos
+    * 1 metro cúbico = 1000 litros
+    * 1 metro cúbico = 35.32 pés cúbicos
+    * 1 galão americano = 231 polegadas cúbicas
+    * 1 galão americano = 3.785 litros]()
+- [] [Exercicio 06 - Escreva a classe _ConversaoDeUnidadesDeTempo com métodos estáticos para conversão aproximada das unidades de velocidade segundo a lista abaixo.
+    * 1 minuto = 60 segundos
+    * 1 hora = 60 minutos
+    * 1 dia = 24 horas
+    * 1 semana = 7 dias
+    * 1 mês = 30 dias ]()
+
 
