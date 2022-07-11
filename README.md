@@ -26,12 +26,12 @@
 - [x] [Exercicio 01 - Escreva uma Classe chamada Contador, que tem um atributo estático que é incrementado sempre que a classe for instanciada. Crie métodos para zerar, incrementar e retornar o valor do contador.Desenvolva um programa para testar essa classe](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2001%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static))
 - [x] [Exercicio 02 - Escreva uma classe Calculadora que tenha os seguintes métodos:somar,subtrair,multiplicar,dividir(dois números), elevar à potência n. Desenvolva um programa para testar essa classe.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2002%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static)%20)
 - [x] [Exercicio 03 - Escreva um método para calcular factorial de um número na classe Calculadora do exercício anterior.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2003%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static)%20       )
-- [] [Exercicio 04 - Escreva a Classe _ConversaoDeUnidadeDeArea_ com métodos estáticos para conversão das unidades de área segundo a lista:
+- [x] [Exercicio 04 - Escreva a Classe _ConversaoDeUnidadeDeArea_ com métodos estáticos para conversão das unidades de área segundo a lista:
     * 1 metro quadrado = 10.76 pés quadrados
     * 1 pé quadrado = 929 centímetros quadrados
     * 1 milha quadrada = 640 acres
     * 1 acre = 43.560 pés quadrados](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2006%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static)%20)
-- [] [Exercicio 05 - Escreva a Classe _ConversaoDeUnidadeDeVolume_ com métodos estáticos para conversão das unidades de volume segundo a lista
+- [x] [Exercicio 05 - Escreva a Classe _ConversaoDeUnidadeDeVolume_ com métodos estáticos para conversão das unidades de volume segundo a lista
     * 1 litro = 1000 centímetros cúbicos
     * 1 metro cúbico = 1000 litros
     * 1 metro cúbico = 35.32 pés cúbicos
