@@ -37,11 +37,11 @@
     * 1 metro cúbico = 35.32 pés cúbicos
     * 1 galão americano = 231 polegadas cúbicas
     * 1 galão americano = 3.785 litros]()
-- [] [Exercicio 06 - Escreva a classe _ConversaoDeUnidadesDeTempo com métodos estáticos para conversão aproximada das unidades de velocidade segundo a lista abaixo.
+- [x] [Exercicio 06 - Escreva a classe _ConversaoDeUnidadesDeTempo com métodos estáticos para conversão aproximada das unidades de velocidade segundo a lista abaixo.
     * 1 minuto = 60 segundos
     * 1 hora = 60 minutos
     * 1 dia = 24 horas
     * 1 semana = 7 dias
-    * 1 mês = 30 dias ]()
+    * 1 mês = 30 dias ](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2006%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static)%20)
 
 
