@@ -47,6 +47,6 @@
 ## Métodos Recursivos<img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 - [x] [Exercício 01 - Escreva um método recursivo e estático que calcule e retorne o N-éstimo termo da sequência Fibonacci.Alguns números desta sequência são:0,1,1,2,3,5,8,13,21,34,55,89...](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2001%20-%20M%C3%A9todos%20Recursivos)
-- [] [Exercício 02 - Escreva um método recursivo e estático que rebeba um número inteiro positivo N e calcule o somatório dos números de 1 a N.]()
+- [x] [Exercício 02 - Escreva um método recursivo e estático que rebeba um número inteiro positivo N e calcule o somatório dos números de 1 a N.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2002%20-%20M%C3%A9todos%20Recursivos%20)
 
 
