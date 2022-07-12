@@ -44,4 +44,9 @@
     * 1 semana = 7 dias
     * 1 mês = 30 dias ](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2006%20-%20Vari%C3%A1ves%20e%20M%C3%A9todos%20Est%C3%A1ticos(static)%20)
 
+## Métodos Recursivos<img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+- [] [Exercício 01 - Escreva um método recursivo e estático que calcule e retorne o N-éstimo termo da sequência Fibonacci.Alguns números desta sequência são:0,1,1,2,3,5,8,13,21,34,55,89...]()
+- [] [Exercício 02 - Escreva um método recursivo e estático que rebeba um número inteiro positivo N e calcule o somatório dos números de 1 a N.]()
+
 
