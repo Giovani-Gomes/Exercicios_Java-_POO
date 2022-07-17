@@ -49,4 +49,31 @@
 - [x] [Exercício 01 - Escreva um método recursivo e estático que calcule e retorne o N-éstimo termo da sequência Fibonacci.Alguns números desta sequência são:0,1,1,2,3,5,8,13,21,34,55,89...](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2001%20-%20M%C3%A9todos%20Recursivos)
 - [x] [Exercício 02 - Escreva um método recursivo e estático que rebeba um número inteiro positivo N e calcule o somatório dos números de 1 a N.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2002%20-%20M%C3%A9todos%20Recursivos%20)
 
+## Herança e Polimorfismo
+
+- [] [Exercício 01 - Conta Bancária -  Elabore uma classe _ContaBancaria_ com os seguintes atributos:
+  * nomeCliente
+  * numConta
+  * saldo
+  
+  e os seguintes métodos:
+  * sacar(o saldo não pode ficar negativo)
+  * depositar
+  
+  Crie também duas subclasse chamadas ContaPoupanca e ContaEspecial, co as seguintes características:
+  
+  ContaPoupança
+  * atributo diaRendimento
+  * método calcularNovoSaldo, recebe taxa de rendimento da poupaça e atuliza o saldo.
+    
+  ContaEspecial
+  * atributo limite
+  * sobreescreva o método sacar com a nova lógica necessária.
+   
+   Crie uma classe Teste que contenha a seguinte lógica:
+   * Criar contas
+   * Sacar um valor das contas 
+   * Depositar
+   * Mostrar um novo salvo a partir de um rendimento
+   * Mostrar so dados Conta do Cliente]()
 
