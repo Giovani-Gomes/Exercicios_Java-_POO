@@ -51,7 +51,7 @@
 
 ## Herança e Polimorfismo
 
-- [] [Exercício 01 - Conta Bancária -  Elabore uma classe _ContaBancaria_ com os seguintes atributos:
+- [] [Exercício 01 - __Conta Bancária__ -  Elabore uma classe _ContaBancaria_ com os seguintes atributos:
   * nomeCliente
   * numConta
   * saldo
@@ -76,4 +76,49 @@
    * Depositar
    * Mostrar um novo salvo a partir de um rendimento
    * Mostrar so dados Conta do Cliente]()
+    <hr>  
+-  [][Exercício 02 - __Imposto de Renda__ - A receita Federal possui um cadastro dos contrinuintes. Cada contribuinte possui nome. Escreva um programa para calcular o imposto a ser pago para 5 contribuintes. Os contribunintes podem ser:
+     * Pessoa jurídica
+     * O imposto corresponde a 10% da renda bruta da empresa.
+     * Pessoa Física
+  
+      Renda Bruta | Alíquota | Parcela a deduzir 
+      :---:| :---: | :---:
+      0 a 1400 | 0% | R$ 0
+      1400,01 a 2100 | 10% | R$ 100
+      2100,01 a 2800 | 15% | R$ 270
+      2800,01 a 3600 | 25% | R$ 500
+      3600,01 ou mais | 30% | R$ 700
+   
+      Escreva um programa para calcular e imprimir na tela o imposto a ser pago de 6 contribuintes, sendo 3 PJ e 3 PF. ]()
+    <hr>
+- [][Exercício 03 - __Animais__ - Um Animal contém nome,comprimento,número de patas(patrão é 4),cor,ambiente e velocidade(em m/s). <br> Um peixe é um animal, tem 0 patas, seu ambiente é o mar(padrão), cor cinzenta(padrão). Além disso tem como características barbatanas e cauda. <br> Um mamífero é um animal e seu ambiente padrão é terra. <br> Um urso é um mamífero, cor castanho e seu alimento preferido é o mel <br> Crie as classes Animal,Peixe e Mamífero. <br> Para a classe  Animal, coloque os atributos:
+    * Nome,comprimento,patas,cor,ambiente,velocidade
+
+    Para a classe Peixe,codifique o atributo características <br> Por último, crie uma classe teste de forma a ter um jardim zoológico com os seguintes animais: camelo,tubarão, urso-do-canadá. <br>
+Exemplo da execução: <br>
+Zoo: <br>
+----------------<br>
+Animal: Camelo <br>
+Comprimento: 150cm<br>
+Patas: 4<br>
+Cor: Amarelo<br>
+Ambiente: Terra<br>
+Velocidade: 2.0 m/s<br>
+----------------<br>
+Animal: Tubarão<br>
+Comprimento: 300cm<br>
+Patas: 0<br>
+Cor: Cinzento<br>
+Ambiente: Mar<br>
+Velocidade: 1.5 m/s<br>
+Característica: Barbatanas e cauda <br>
+----------------<br>
+Animal: Urso-do-canadá <br>
+Comprimento: 180cm<br>
+Patas: 4<br>
+Cor: Vermelho<br>
+Ambiente: Terra<br>
+Velocidade: 0.5 m/s<br>
+--------------- ]()
 
