@@ -75,7 +75,7 @@
    * Sacar um valor das contas 
    * Depositar
    * Mostrar um novo salvo a partir de um rendimento
-   * Mostrar so dados Conta do Cliente]()
+   * Mostrar so dados Conta do Cliente](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exercicio%2001%20-%20Heran%C3%A7a)
     <hr>  
 -  [][Exercício 02 - __Imposto de Renda__ - A receita Federal possui um cadastro dos contrinuintes. Cada contribuinte possui nome. Escreva um programa para calcular o imposto a ser pago para 5 contribuintes. Os contribunintes podem ser:
      * Pessoa jurídica
