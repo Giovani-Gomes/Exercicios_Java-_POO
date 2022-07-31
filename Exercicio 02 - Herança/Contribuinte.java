@@ -1,6 +1,6 @@
 package heranca.exercicio02;
 
-public class Contribuinte {
+public abstract class Contribuinte {
     private String nome;
     private double rendaBruta;
 
