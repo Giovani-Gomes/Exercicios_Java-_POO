@@ -51,7 +51,7 @@
 
 ## Herança e Polimorfismo <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-- [] [Exercício 01 - __Conta Bancária__ -  Elabore uma classe _ContaBancaria_ com os seguintes atributos:
+- [x] [Exercício 01 - __Conta Bancária__ -  Elabore uma classe _ContaBancaria_ com os seguintes atributos:
   * nomeCliente
   * numConta
   * saldo
@@ -77,7 +77,7 @@
    * Mostrar um novo salvo a partir de um rendimento
    * Mostrar so dados Conta do Cliente](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exercicio%2001%20-%20Heran%C3%A7a)
     <hr>  
--  [][Exercício 02 - __Imposto de Renda__ - A receita Federal possui um cadastro dos contrinuintes. Cada contribuinte possui nome. Escreva um programa para calcular o imposto a ser pago para 5 contribuintes. Os contribunintes podem ser:
+-  [x][Exercício 02 - __Imposto de Renda__ - A receita Federal possui um cadastro dos contrinuintes. Cada contribuinte possui nome. Escreva um programa para calcular o imposto a ser pago para 5 contribuintes. Os contribunintes podem ser:
      * Pessoa jurídica
      * O imposto corresponde a 10% da renda bruta da empresa.
      * Pessoa Física
@@ -90,9 +90,9 @@
       2800,01 a 3600 | 25% | R$ 500
       3600,01 ou mais | 30% | R$ 700
    
-      Escreva um programa para calcular e imprimir na tela o imposto a ser pago de 6 contribuintes, sendo 3 PJ e 3 PF. ]()
+      Escreva um programa para calcular e imprimir na tela o imposto a ser pago de 6 contribuintes, sendo 3 PJ e 3 PF. ](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exercicio%2002%20-%20Heran%C3%A7a)
     <hr>
-- [][Exercício 03 - __Animais__ - Um Animal contém nome,comprimento,número de patas(patrão é 4),cor,ambiente e velocidade(em m/s). <br> Um peixe é um animal, tem 0 patas, seu ambiente é o mar(padrão), cor cinzenta(padrão). Além disso tem como características barbatanas e cauda. <br> Um mamífero é um animal e seu ambiente padrão é terra. <br> Um urso é um mamífero, cor castanho e seu alimento preferido é o mel <br> Crie as classes Animal,Peixe e Mamífero. <br> Para a classe  Animal, coloque os atributos:
+- [x][Exercício 03 - __Animais__ - Um Animal contém nome,comprimento,número de patas(patrão é 4),cor,ambiente e velocidade(em m/s). <br> Um peixe é um animal, tem 0 patas, seu ambiente é o mar(padrão), cor cinzenta(padrão). Além disso tem como características barbatanas e cauda. <br> Um mamífero é um animal e seu ambiente padrão é terra. <br> Um urso é um mamífero, cor castanho e seu alimento preferido é o mel <br> Crie as classes Animal,Peixe e Mamífero. <br> Para a classe  Animal, coloque os atributos:
     * Nome,comprimento,patas,cor,ambiente,velocidade
 
     Para a classe Peixe,codifique o atributo características <br> Por último, crie uma classe teste de forma a ter um jardim zoológico com os seguintes animais: camelo,tubarão, urso-do-canadá. <br>
@@ -120,5 +120,5 @@ Patas: 4<br>
 Cor: Vermelho<br>
 Ambiente: Terra<br>
 Velocidade: 0.5 m/s<br>
---------------- ]()
+--------------- ](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2003%20-%20Heran%C3%A7a%20)
 
