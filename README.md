@@ -1,4 +1,5 @@
  # Lista de Exercicios POO <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ ![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicios_Java-_POO)
 
 - [x] [Exercício 01 - Escreva uma classe para representar uma lâmpada que está á venda em um supermercado.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exerc%C3%ADcio%2001)
 - [x] [Exercício 02 - Crie uma classe Livro que represente do dados básicos de um livro, sem se preocupar com a sua finalidade.](https://github.com/Giovani-Gomes/Exercicios_Java-_POO/tree/main/Exercicio%2002)
